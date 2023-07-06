@@ -18,6 +18,7 @@
         <module>mall-search</module>
         <module>mall-portal</module>
     </modules>
+         
 
     <parent>
         <groupId>org.springframework.boot</groupId>
